@@ -1,0 +1,23 @@
+.main {
+  width: 80%;
+  /* background-color: pink; */
+  margin: 1rem auto;
+  padding: 1 rem;
+}
+.card {
+  width: 400px;
+  /* background-color: blueviolet; */
+  margin: auto;
+}
+.cardImg {
+  width: 250px;
+  box-shadow: rgba(0, 0, 0, 0.35);
+  border-radius: 10px;
+}
+
+.btn {
+  padding: 10px;
+  margin: 10px;
+  background-color: crimson;
+  border-radius: 8px;
+}
